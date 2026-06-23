@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd product-manager-ai-agent && npm run build",
+  "outputDirectory": "product-manager-ai-agent/dist",
+  "installCommand": "cd product-manager-ai-agent && npm install"
+}
